@@ -1,6 +1,13 @@
 # DockerでオリジナルのLaravel開発環境を構築する 
 DockerでLaravel環境を構築し、dev-laravel.menta.work(laravel)を立ち上げて監視する。
 
+・構成図
+![無題のプレゼンテーション (5)](https://github.com/user-attachments/assets/b826b2a5-9a5b-45b8-95c2-ee6a1cb4ef62)
+
+・表示確認
+![284057846-5a567235-bed2-46e4-91af-b814b13c0389](https://github.com/user-attachments/assets/79f36539-d8a9-4139-82a8-0b9c6566a108)
+
+
 ## 構築手順
 1. `hostsファイル`に以下の設定を行う。
 
