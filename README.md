@@ -1,4 +1,4 @@
-# #12 DockerでオリジナルのLaravel開発環境を構築する 
+# DockerでオリジナルのLaravel開発環境を構築する 
 DockerでLaravel環境を構築し、dev-laravel.menta.work(laravel)を立ち上げて監視する。
 
 ## 構築手順
